@@ -1,0 +1,30 @@
+body {
+
+    background-color: #bbbbbb;
+    background-repeat: repeat-x;
+    background-position: top;
+    background-attachment: fixed;
+    color: #FFFFFF;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+
+container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #0300a7;
+    border: 3px solid #000000;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -o-border-radius: 10px;
+    -ms-border-radius: 10px;
+    box-shadow: 0 0 10px #000000;
+    -moz-box-shadow: 0 0 10px #000000;
+    -webkit-box-shadow: 0 0 10px #000000;
+    -o-box-shadow: 0 0 10px #000000;
+    -ms-box-shadow: 0 0 10px #000000;
+}
